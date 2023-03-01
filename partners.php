@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+
+    <title>IRAH SOLUTIONS</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="irah.css">
+  </head>
+  <body style="padding-top: 70px;">
+    <?php
+    include "navbar.php";
+    ?>
+ <header>
+<div class="about-logo">
+<style>
+body {
+background: linear-gradient(to left,#00672f,#000, #cc8e15);
+
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+h1 { 
+color: white;
+text-align: center;
+font-size: 50px;
+}
+
+</style>
+<br>
+<center><img src="irah_logo3.png" class="img-fluid" style="width:270px;height:250px;"></center>
+<br>
+<h1> SOLUTION PARTNERS </h1>
+<center><img src="part1.png" class="img-fluid" style="width:700px;height:400px;"></center>
+<br>
+<h1> SUBCONTRACTOR CLIENTS</h1>
+<center><img src="sub1.png" class="img-fluid" style="width:700px;height:300px;"></center>
+
+
+
+
+<br>
+<footer class="page-footer">
+
+  <div class="container">
+
+    <div class="row">
+
+      <div class="col-lg-8 col-md-8 col-sm-12">
+
+      <h6 class="text-uppercase font-weight-bold">PROFESSIONAL SERVICES</h6> 
+      <p>
+      <br/>Access Control and Building Management System 
+      <br/>CCTV Surveillance Security System
+      <br/>Fire Detection and Alarm System
+      <br/>Mechanical, Electrical, Plumbing, Fire Protection
+      <br/>Traffic Control and Parking System
+      <br/>Home Automation System
+      <br/>ICT Network and Server Solutions
+      <br/>Structure Cabling And FTTH Solutions
+</p>
+    </div>
+
+    <div class="col-lg-4 col-md-4 col-sm-12">
+
+      <h6 class="text-uppercase font-weight-bold">Contact</h6>
+
+      <a class="text-color" href="https://www.google.com/maps/place/A.C.+Building/@14.6332526,121.0394044,3a,75y,98.69h,94.73t/data=!3m7!1e1!3m5!1suHl__TQOwN5I5tSVSwt1qg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DuHl__TQOwN5I5tSVSwt1qg%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D79.137146%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m10!1m2!2m1!1sUnit+201+AC+Bldg+Sct.+Rallos+st,+corner+Sct.+Ybardolaza,+Quezon+City,+1103+Metro+Manila+938+Aurora+Blvd.+Quezon+City,+Philippines!3m6!1s0x3397b7ae01ac1677:0x2576fe5e2ed7a615!8m2!3d14.6332781!4d121.0395437!15sCoEBVW5pdCAyMDEgQUMgQmxkZyBTY3QuIFJhbGxvcyBzdCwgY29ybmVyIFNjdC4gWWJhcmRvbGF6YSwgUXVlem9uIENpdHksIDExMDMgTWV0cm8gTWFuaWxhIDkzOCBBdXJvcmEgQmx2ZC4gUXVlem9uIENpdHksIFBoaWxpcHBpbmVz4AEA!16s%2Fg%2F11bc7r3z6j
+"> Unit 201 AC Bldg Sct. Rallos st, corner Sct. Ybardolaza, 
+      Quezon City, 1103 Metro Manila938 Aurora Blvd. Quezon City, Philippines</a>
+      <br/>
+  <p> <br/>irah@irahsolutions.com
+      <br/>irahsolutions@gmail.com
+      <br/>02-872-23581
+      <br/>0908-8994330</p>
+
+    </div>
+
+  </div>
+
+  <div class="footer-copyright text-center">© 2022 Copyright: IRAH SOLUTIONS AND SERVICE INC.- ALL RIGHTS RESERVED</div>
+  
+
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="irah.js"></script>    
+
+
+</body>
+
+</html>
